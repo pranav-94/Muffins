@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://wallpaper.dog/large/10755963.jpg");
+    background-repeat:no-repaat;
+    background-size:cover;
+}
+.head{
+    font-size:50px;
+    text-align:center;
+    color: #DC143C;
+    font-family: Garamond, serif;
+}
+.box{
+    position:relative;
+    top:120px;
+    background-color:aliceblue;
+    width:250px;
+    height:75px;
+    font-size:20px;
+    color:purple;
+    font-family: font-family: 'Courier New', monospace;
+}
